@@ -1,2 +1,0 @@
-ackage day0612;
-

@@ -32,32 +32,42 @@
 		<link>
 			<name>src/main/webapp/images/banner.png</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Users/user/Pictures/Screenshots/banner.png</locationURI>
+			<locationURI>copy_PARENT/Users/user/Pictures/Screenshots/banner.png</locationURI>
 		</link>
 		<link>
 			<name>src/main/webapp/images/button.png</name>
 			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/button.png</locationURI>
+			<locationURI>copy_PARENT1/button.png</locationURI>
 		</link>
 		<link>
 			<name>src/main/webapp/images/favicon.ico</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Users/user/Downloads/8eb7cbfcd3dbd78744bd43a7b7b7ea84.ico/favicon.ico</locationURI>
+			<locationURI>copy_PARENT/Users/user/Downloads/8eb7cbfcd3dbd78744bd43a7b7b7ea84.ico/favicon.ico</locationURI>
 		</link>
 		<link>
 			<name>src/main/webapp/images/gini.jpg</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Users/user/Pictures/%EA%B8%B0%EB%8B%88.jpg</locationURI>
+			<locationURI>copy_PARENT/Users/user/Pictures/%EA%B8%B0%EB%8B%88.jpg</locationURI>
 		</link>
 		<link>
 			<name>src/main/webapp/images/james.png</name>
 			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/james.png</locationURI>
+			<locationURI>copy_PARENT1/james.png</locationURI>
 		</link>
 		<link>
 			<name>src/main/webapp/images/sea.png</name>
 			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/sea.png</locationURI>
+			<locationURI>copy_PARENT1/sea.png</locationURI>
 		</link>
 	</linkedResources>
+	<variableList>
+		<variable>
+			<name>copy_PARENT</name>
+			<value>$%7BPARENT-2-ECLIPSE_HOME%7D</value>
+		</variable>
+		<variable>
+			<name>copy_PARENT1</name>
+			<value>$%7Bcopy_PARENT%7D/dev</value>
+		</variable>
+	</variableList>
 </projectDescription>
